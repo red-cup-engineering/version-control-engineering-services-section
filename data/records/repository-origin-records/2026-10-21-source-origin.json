@@ -1,0 +1,132 @@
+{
+  "kind": "StandaloneServicesSectionSourceOrigin",
+  "source": {
+    "repository": "red-cup-engineering/software-development-services-section",
+    "commit": "da3829977fab35cf2af5b4ba84720e24fc30dd4d",
+    "path": "services/version-control-services-section",
+    "tree": "e5b4938579124cf35793fbccc680c8bf766c5dcb",
+    "baselineCommit": "a25b4c32b0612a3b15fb66fa8164998a19388f47",
+    "regularMembers": 13,
+    "gitlinks": 2,
+    "regularBytes": 157173
+  },
+  "target": {
+    "repository": "red-cup-engineering/version-control-services-section",
+    "visibility": "public",
+    "defaultBranch": "main"
+  },
+  "preservedMembers": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55ef949b3d67538e0c7e183e97da3c6011de67a7",
+      "bytes": 981
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/content/host-activation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "828acd936512f190ce2482c28c98dbca3c617d3d",
+      "bytes": 672
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/lib/ownership.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5b69fb990e475bab677bbc64652ba5a6ad72e3c",
+      "bytes": 899
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "989eea1730283a0a792d52e3e563314a9fdb7cf5",
+      "bytes": 1386
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/src/bound-git-profile-a2a-executor.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9844369436c410947f030a2c9631e4307737bfa3",
+      "bytes": 2410
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/src/bound-git-profile-auth.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "201420bf92be9daab53dd7a2bf0aea797a19416e",
+      "bytes": 7774
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/src/bound-git-profile-store.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9bba1768d060e1f0b26ddb6d9a6c9ad6b45f949",
+      "bytes": 10233
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/src/bound-git-profile-wire.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a1ce6939e61d9ebb46994360cf656f287365ef4",
+      "bytes": 62826
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/src/bound-git-profile.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33f17667ddfb1b39666357984a3577ee6668d810",
+      "bytes": 41141
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/src/serve-bound-git-profile.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97ece652c2a4d50579e6222b8e0ef6723750ee32",
+      "bytes": 484
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/test/bound-git-profile-ingress.test.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ae9cd1be913dc7e93bc7b4fb559c6f62e684588",
+      "bytes": 4971
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/test/bound-git-profile-wire.test.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f18c13db2eca22b40b70863b2d0887a0c501aad",
+      "bytes": 2419
+    },
+    {
+      "path": "lib/legacy/2026-08-06-block-device-io-coordinator/test/bound-git-profile.test.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0900c57cf1cb1ad45110489e8b98472c7ce924ef",
+      "bytes": 20977
+    },
+    {
+      "path": "services/git-services-section",
+      "mode": "160000",
+      "type": "commit",
+      "sha": "d58ad98d486998e1fbe22db44ecd6b63f9ab470f"
+    },
+    {
+      "path": "services/software-forge-services-section",
+      "mode": "160000",
+      "type": "commit",
+      "sha": "5e26e8ead1a917964229d2e02e3bbbb3300b7bb1"
+    }
+  ],
+  "sourceScope": "Exact original snapshot imported; original parent commit/history retained at the source owner. This is not a claim of imported entire ancestor history.",
+  "capabilities": {
+    "current": "Original Git and Software Forge source selections remain unchanged.",
+    "historical": "Dated block-device IO coordinator source, tests, ownership and host-activation requirements remain intact under lib/legacy; README explicitly marks historical experiments inactive. They have not been independently received into ordinary current native service use."
+  },
+  "remainingObligations": [
+    "Native/installed/publication and historical capability integration remain separate from this source ownership cut.",
+    "No host controller grant, trading action, installation or legacy activation follows from source extraction."
+  ]
+}
