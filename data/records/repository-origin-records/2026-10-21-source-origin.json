@@ -122,7 +122,7 @@
   ],
   "sourceScope": "Exact original snapshot imported; original parent commit/history retained at the source owner. This is not a claim of imported entire ancestor history. The forward source projection also preserves the current parent’s exact child selection; neither supplier native operation nor whole history is thereby qualified.",
   "capabilities": {
-    "current": "Original Git and Software Forge source selections remain unchanged.",
+    "current": "All original regular source bodies and the Git selection remain unchanged; the Software Forge selection follows the current parent’s explicit source advance from 5e26e8ead1a917964229d2e02e3bbbb3300b7bb1 to d5ea38205be0ab45f52f098cbb615769307bd74e.",
     "historical": "Dated block-device IO coordinator source, tests, ownership and host-activation requirements remain intact under lib/legacy; README explicitly marks historical experiments inactive. They have not been independently received into ordinary current native service use."
   },
   "remainingObligations": [
