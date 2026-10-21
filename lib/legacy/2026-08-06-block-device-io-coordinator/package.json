@@ -1,0 +1,27 @@
+{
+  "name": "@red-cup-engineering/block-device-io-coordinator",
+  "version": "0.0.0",
+  "type": "module",
+  "description": "A device I/O provider that assays syscall-scale RMN effects and witnesses their FOUR cover transitions without buying shared-ledger consensus.",
+  "bin": {
+    "serve-bound-git-profile": "./src/serve-bound-git-profile.js"
+  },
+  "scripts": {
+    "check": "node --check src/bound-git-profile-wire.js && node --check src/bound-git-profile-auth.js && node --check src/bound-git-profile-store.js && node --check src/bound-git-profile.js && node --check src/bound-git-profile-a2a-executor.js && node --check src/serve-bound-git-profile.js",
+    "test": "node --test test/bound-git-profile-wire.test.js test/bound-git-profile.test.js test/bound-git-profile-ingress.test.js",
+    "verify": "npm run check && npm test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@red-cup-engineering/relation-model-notation-cbor-codec": "0.1.0",
+    "@red-cup-engineering/a2a-agent-card-discovery-service": "0.0.0",
+    "@red-cup-engineering/a2a-contracted-agent-service": "0.0.0",
+    "@red-cup-engineering/a2a-rmn-part-service": "0.0.0",
+    "@red-cup-engineering/a2a-rmn-task-client-service": "0.1.0",
+    "@lenticule-science/wit-transition-assay": "0.0.0",
+    "@lenticule-science/witness-journal-rdf-projection-service": "0.6.0",
+    "jose": "6.2.3"
+  }
+}
