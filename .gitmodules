@@ -1,8 +1,8 @@
 [submodule "git-services-section"]
 	path = services/git-services-section
-	url = https://github.com/red-cup-engineering/git-services-section.git
+	url = https://github.com/red-cup-engineering/git-engineering-services-section.git
 	branch = main
 [submodule "software-forge-services-section"]
 	path = services/software-forge-services-section
-	url = https://github.com/red-cup-engineering/software-forge-services-section.git
+	url = https://github.com/red-cup-engineering/software-forge-engineering-services-section.git
 	branch = main
