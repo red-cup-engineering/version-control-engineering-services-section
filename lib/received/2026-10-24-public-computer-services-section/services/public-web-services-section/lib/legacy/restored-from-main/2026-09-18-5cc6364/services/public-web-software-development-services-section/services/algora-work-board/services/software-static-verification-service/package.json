@@ -1,9 +1,0 @@
-{
-  "name": "@red-cup-engineering/software-static-verification-service",
-  "version": "0.0.0",
-  "type": "module",
-  "exports": "./src/static-check.mjs",
-  "scripts": {
-    "test": "node --test"
-  }
-}

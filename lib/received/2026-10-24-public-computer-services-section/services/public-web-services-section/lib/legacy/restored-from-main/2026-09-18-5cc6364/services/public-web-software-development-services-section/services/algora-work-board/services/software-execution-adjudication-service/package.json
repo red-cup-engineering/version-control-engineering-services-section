@@ -1,9 +1,0 @@
-{
-  "name": "@red-cup-engineering/software-execution-adjudication-service",
-  "version": "0.0.0",
-  "type": "module",
-  "exports": "./src/run-outcome.mjs",
-  "scripts": {
-    "test": "node --test"
-  }
-}

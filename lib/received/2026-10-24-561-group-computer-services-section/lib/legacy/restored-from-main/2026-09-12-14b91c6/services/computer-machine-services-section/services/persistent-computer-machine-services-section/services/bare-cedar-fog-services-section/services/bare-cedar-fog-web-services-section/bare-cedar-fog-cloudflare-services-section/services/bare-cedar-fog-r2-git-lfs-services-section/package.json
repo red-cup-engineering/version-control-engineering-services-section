@@ -1,9 +1,0 @@
-{
-  "name": "@red-cup-engineering/bare-cedar-fog-r2-git-lfs",
-  "version": "0.1.0",
-  "description": "Standalone git-lfs transfer agent binding this laptop's monorepo asset bytes to Cloudflare R2.",
-  "scripts": {
-    "check": "node --check src/transfer-git-lfs-objects-to-r2.mjs",
-    "test": "node --test test/*.test.mjs"
-  }
-}

@@ -1,4 +1,0 @@
-- [[relation]] and [[relationlessness]] induce the [[domain of relationality]]
-	- See [[triage/20250502-relational-notes/fffstem/relating/derivations/Deriving the Domain of Relating|inducing relationality]]
-- this induces [[reflex induced relation|reflexing]] and [[reflect induced relation|reflecting the induced relations]], forming the [[relational latice]]
-- this enables [[select induced relation|selecting]], [[compare induced relations|comparing]]..

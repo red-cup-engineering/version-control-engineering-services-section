@@ -1,6 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://typed-resource-catalog.active.development.561.group/library/path/library/object/library/attribute/library/file/restricting/library/regular-file/restricting/library/binary-file/binary-file.schema.json",
-  "title": "Binary file",
-  "description": "A regular file whose leading block contains a NUL byte (the complement of flatfile). The codomain object of regular-file's restricting morphism; its defining membership predicate is computed by that morphism (../../scripts/restrict.mjs), per 'routing IS conformance'."
-}

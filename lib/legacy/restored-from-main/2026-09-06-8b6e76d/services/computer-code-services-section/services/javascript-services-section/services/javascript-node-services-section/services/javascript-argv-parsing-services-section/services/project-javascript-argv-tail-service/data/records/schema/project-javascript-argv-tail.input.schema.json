@@ -1,6 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "projectJavascriptArgvTailInput",
-  "type": "object",
-  "description": "A JavascriptArgumentVector@1 carrying runtime, program, and user argument strings."
-}

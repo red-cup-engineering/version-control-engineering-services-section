@@ -1,7 +1,0 @@
-{
-  "name": "@fixture/read-alpha",
-  "version": "1.0.0",
-  "dependencies": {
-    "@fixture/read-beta": "workspace:*"
-  }
-}

@@ -1,6 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://typed-resource-catalog.active.development.561.group/library/path/library/object/library/attribute/library/file/file.schema.json",
-  "title": "File",
-  "description": "The fourth backbone node and the settled result of TRC's descent path -> object -> attribute -> file (mirroring voidmath's cell -> fiber -> presheaf -> sheaf). The file is not the carrier (the path is); it is what the descent settles to, with the filesystem-type taxonomy (restricting/library/{directory, regular-file, ...}) hanging off it as the sheaf-end, each subkind reached by its restriction morphism. Per the README the file node corresponds to voidmath's sheaf at the finite/settle regime. Minimal type-witness for the node; its full structural content is the voidmath sheaf it carries, whose on-disk derivation is a separate task."
-}

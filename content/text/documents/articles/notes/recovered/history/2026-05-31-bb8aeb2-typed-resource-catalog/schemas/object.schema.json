@@ -1,6 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://typed-resource-catalog.active.development.561.group/library/path/library/object/object.schema.json",
-  "title": "Object",
-  "description": "The second backbone node of TRC's descent path -> object -> attribute -> file (mirroring voidmath's cell -> fiber -> presheaf -> sheaf). The object is the residue that reading a path leaves, predicated into the cellular fiber; per the README it corresponds to voidmath's fiber at the transfinite/predicate regime. This is a minimal type-witness for the node (its full structural content is the voidmath fiber it carries); deriving that structure on-disk is a separate task."
-}

@@ -1,8 +1,0 @@
-{
-  "name": "@red-cup-engineering/read-bare-cedar-fog-markdown-carrier-service",
-  "version": "0.1.0",
-  "type": "module",
-  "description": "Reads one Markdown carrier confined beneath a fixed repository root: parsed frontmatter, the heading outline, and the body of one named section or the whole body, truncated.",
-  "exports": { ".": { "types": "./types/index.d.mts", "import": "./src/read-markdown-carrier.mjs" } },
-  "engines": { "node": ">=22" }
-}

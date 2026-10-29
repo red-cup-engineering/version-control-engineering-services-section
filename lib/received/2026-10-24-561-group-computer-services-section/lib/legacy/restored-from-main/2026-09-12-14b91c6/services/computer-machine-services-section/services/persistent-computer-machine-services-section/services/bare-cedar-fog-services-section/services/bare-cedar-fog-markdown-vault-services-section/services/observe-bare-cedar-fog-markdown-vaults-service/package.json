@@ -1,8 +1,0 @@
-{
-  "name": "@red-cup-engineering/observe-bare-cedar-fog-markdown-vaults-service",
-  "version": "0.1.0",
-  "type": "module",
-  "description": "Observes every Markdown carrier under a repository root and assigns it to one explicit Bare Cedar Fog vault region.",
-  "exports": { ".": { "types": "./types/index.d.mts", "import": "./src/vault-catalog.mjs" } },
-  "engines": { "node": ">=22" }
-}

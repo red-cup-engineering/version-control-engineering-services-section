@@ -1,9 +1,0 @@
-{
-  "kind": "metroplat-native-input-path-receiving",
-  "ownDataPaths": true,
-  "ambientPrototypesUnchanged": true,
-  "arrayPrototypeUnchanged": true,
-  "literalProtoKeyRetained": true,
-  "typedValuesRetained": true,
-  "scope": "Actual shared native reader; no authenticated operation or production claim."
-}

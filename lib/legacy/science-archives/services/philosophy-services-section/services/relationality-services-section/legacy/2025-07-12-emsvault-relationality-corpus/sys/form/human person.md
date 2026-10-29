@@ -1,1 +1,0 @@
-a human person is a human with agency, as opposed to an [[artificial person]].

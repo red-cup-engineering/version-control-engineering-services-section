@@ -1,8 +1,0 @@
-{
-  "name": "@red-cup-engineering/search-bare-cedar-fog-markdown-vaults-service",
-  "version": "0.1.0",
-  "type": "module",
-  "description": "Performs bounded, policy-aware ripgrep search across Bare Cedar Fog Markdown vault regions with line evidence and provenance.",
-  "exports": { ".": { "types": "./types/index.d.mts", "import": "./src/search-markdown-vaults.mjs" } },
-  "engines": { "node": ">=22" }
-}

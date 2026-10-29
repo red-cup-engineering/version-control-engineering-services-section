@@ -1,6 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://typed-resource-catalog.active.development.561.group/library/path/library/object/library/attribute/attribute.schema.json",
-  "title": "Attribute",
-  "description": "The third backbone node of TRC's descent path -> object -> attribute -> file (mirroring voidmath's cell -> fiber -> presheaf -> sheaf). Statting a path posits its POSIX attributes as charges on the object's fiber; per the README the attribute node corresponds to voidmath's presheaf at the scott-continuous/posit regime. Minimal type-witness for the node; its full structural content is the voidmath presheaf it carries, whose on-disk derivation is a separate task."
-}

@@ -1,9 +1,0 @@
-{
-  "name": "@red-cup-engineering/software-work-qualification-assay-service",
-  "version": "0.0.0",
-  "type": "module",
-  "exports": "./src/qualify-bounty.mjs",
-  "scripts": {
-    "test": "node --test"
-  }
-}

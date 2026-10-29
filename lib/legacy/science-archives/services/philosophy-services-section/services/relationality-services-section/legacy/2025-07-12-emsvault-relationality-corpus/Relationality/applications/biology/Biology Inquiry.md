@@ -1,1 +1,0 @@
-What are the [[dynamics of cat purring]]?

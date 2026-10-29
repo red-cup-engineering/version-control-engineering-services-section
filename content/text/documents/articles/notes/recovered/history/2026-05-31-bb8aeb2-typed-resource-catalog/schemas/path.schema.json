@@ -1,9 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://typed-resource-catalog.active.development.561.group/library/path/path.schema.json",
-  "title": "Path",
-  "description": "TRC's carrier: a token (itself a JSON Schema 2020-12 document) restricted to a POSIX-pathname-conformant string. The bare addressable name the articulating regime opens into a cell; the head of the chain path -> object -> attribute -> file. The pattern is the substrate constraint (non-empty, NUL-free, slash-structured) and is refinable downstream.",
-  "type": "string",
-  "minLength": 1,
-  "pattern": "^/$|^/?(?:[^/\\u0000]+/?)+$"
-}

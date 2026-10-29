@@ -1,9 +1,0 @@
-{
-  "repository": "red-cup-engineering/kalshi-engineering-services-section",
-  "originalWork": 97,
-  "commit": "f0b5ee50d1b7ae022db3b50019527643e6246cb5",
-  "path": "services/forecasting-service/src/station-observations.mjs",
-  "restoredFunction": "climateDate",
-  "sha256": "103babee0e5d75d131294fba6b1c59d42e5abba76799e899cb57866afa4eaab4",
-  "qualification": "Exact original standard-time climate-date helper. Other transport, regrading and strategy changes in the proposal remain separately held."
-}
