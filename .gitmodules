@@ -1,4 +1,0 @@
-[submodule "services/git-services-section"]
-	path = services/git-services-section
-	url = https://github.com/red-cup-engineering/git-engineering-services-section.git
-	branch = main
